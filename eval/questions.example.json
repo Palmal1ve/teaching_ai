@@ -1,0 +1,26 @@
+[
+  {
+    "group": "professor_specific",
+    "lesson_id": 1,
+    "time_ms": 760000,
+    "question": "Why did the professor say the slide's formula was wrong?",
+    "answer": "It should be squared. The slide shows the unsquared form.",
+    "moment_ms": 754000
+  },
+  {
+    "group": "general",
+    "lesson_id": 1,
+    "time_ms": 0,
+    "question": "What is edge relaxation?",
+    "answer": "Lowering a vertex's distance estimate when a shorter path through a neighbour exists.",
+    "moment_ms": 754000
+  },
+  {
+    "group": "not_covered",
+    "lesson_id": 1,
+    "time_ms": 0,
+    "question": "How does the A* heuristic work?",
+    "answer": null,
+    "moment_ms": null
+  }
+]

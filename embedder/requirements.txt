@@ -1,0 +1,5 @@
+# 2.9.1 is the newest arm64 wheel on PyPI with no CUDA packages. Later ones add several GB.
+torch==2.9.1
+fastapi>=0.115
+uvicorn>=0.32
+sentence-transformers>=3.3
